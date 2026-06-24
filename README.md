@@ -1,18 +1,21 @@
 <h1 align="center">Привет, я Альберт 👋</h1>
 
-<h3 align="center">Product Engineer · Frontend Lead · Applied AI</h3>
+<h3 align="center">Frontend Lead · Product Engineer · Applied AI</h3>
 
 <p align="center">
-  Проектирую коммерческие продукты, руковожу frontend-разработкой<br/>
-  и строю AI-native системы — от архитектуры и данных до growth-операций.
+  Проектирую и развиваю коммерческие продукты:<br/>
+  от UX и fых и автоматизации процессов.
 </p>
 
 <p align="center">
-  <a href="https://brandlyo.io">
-    <img src="https://img.shields.io/badge/Brandlyo-Product-6C5CE7?style=for-the-badge" alt="Brandlyo" />
+  <a href="https://installplan.com/">
+    <img src="https://img.shields.io/badge/InstallPlan-B2B%20ERP-2563EB?style=for-the-badge" alt="InstallPlan" />
+  </a>
+  <a href="https://brandlyo.io/">
+    <img src="https://img.shields.io/badge/Brandlyo-AI--native%20SaaS-7C3AED?style=for-the-badge" alt="Brandlyo" />
   </a>
   <a href="https://t.me/brandlyo">
-    <img src="https://img.shields.io/badge/Telegram-Channel-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Brandlyo Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-Brandlyo-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Brandlyo Telegram" />
   </a>
 </p>
 
@@ -20,144 +23,151 @@
 
 ## Обо мне
 
-Я начинал с frontend- и mobile-разработки, а сегодня работаю на пересечении **product engineering, инженерного лидерства и applied AI**.
+Я начинал с frontend- и mobile-разработки, а сегодня работаю на пересечении **инженерного лидерства, product engineering и applied AI**.
 
-На основной работе руковожу frontend-направлением крупной коммерческой B2B-системы: участвую в архитектуре, декомпозиции задач, code review, формировании технических стандартов и развитии команды.
+В **InstallPlan** отвечаю за frontend-направление большой коммерческой ERP-платформы. Я пришёл в проект на раннем этапе и участвовал в формировании его визуального языка, UX-подходов и frontend-архитектуры — не только реализую готовые макеты, но и самостоятельно прорабатываю интерфейсы и продуктовые сценарии.
 
-Параллельно самостоятельно развиваю **Brandlyo** — работающий и самоокупаемый AI-native продукт, который построил с нуля: от идеи, UX и архитектуры до backend, базы данных, AI-пайплайнов, автоматизаций, аналитики и production.
+Параллельно самостоятельно строю **Brandlyo** — самоокупаемый AI-native SaaS, который стал для меня production-полигоном для проверки моделей, RAG, агентных систем, автоматизаций и data-driven процессов на реальных пользователях и бизнес-задачах.
 
-Мне интересно не просто реализовать функцию, а выстроить систему целиком:
+Мне интересно не просто реализовать отдельную функцию, а выстроить систему целиком:
 
-- понять проблему и продуктовую цель;
-- спроектировать пользовательский сценарий и архитектуру;
-- организовать разработку и довести решение до production;
-- собрать данные и обратную связь;
-- измерить результат и улучшить процесс;
-- определить, где AI действительно создаёт ценность, а где только добавляет сложность.
+* понять проблему и продуктовую цель;
+* спроектировать UX, данные и архитектуру;
+* организовать разработку и довести решение до production;
+* собрать аналитику и обратную связь;
+* улучшить продукт и сам процесс его создания.
+
+---
+
+## InstallPlan
+
+**ERP-платформа для управления сервисными и монтажными компаниями.**
+
+Система объединяет CRM, хелпдеск, проекты, планировщик, склад, оборудование, документы, аналитику, корпоративные коммуникации и мобильные приложения.
+
+Я отвечаю за развитие frontend-направления продукта:
+
+* проектирую UX/UI и сложные пользовательские сценарии;
+* принимаю frontend-архитектурные решения;
+* декомпозирую продуктовые задачи и распределяю работу;
+* провожу code review и формирую инженерные стандарты;
+* связываю требования бизнеса, ограничения backend и пользовательский опыт;
+* помогаю команде развивать систему без остановки коммерческой разработки.
+
+Проект прошёл большой технологический путь: backend развивался от монолита к микросервисной архитектуре, а frontend — от jQuery и классического MPA к современной компонентной системе на React и TypeScript.
+
+<details>
+  <summary><b>Подробнее о техническом и продуктовом опыте</b></summary>
+  <br/>
+
+* React, TypeScript, Vite и компонентная архитектура
+* Zod, React Hook Form и сложная валидация данных
+* TanStack Query и управление серверным состоянием
+* REST API и WebSocket-обновления в реальном времени
+* CRM, канбан, таблицы, формы и конструкторы документов
+* Календари, планировщики и диаграммы Ганта
+* Карты, геолокация, маршруты и GPS-сценарии
+* Аналитические дашборды и визуализация данных
+* Файловые сценарии и корпоративные коммуникации
+* Дизайн-система, адаптивность и постепенный рефакторинг legacy
+
+</details>
+
+🌐 [installplan.com](https://installplan.com/)
 
 ---
 
 ## Brandlyo
 
-**AI-native платформа для системной работы с контентом и памятью бренда.**
+**AI-native контент-система с долгосрочной памятью бренда.**
 
-Brandlyo изучает бизнес, аудиторию и коммуникацию бренда, формирует долгосрочный структурированный контекст и использует его для создания контента, планирования и выполнения многошаговых задач.
+Я спроектировал и построил продукт самостоятельно с нуля — от идеи, позиционирования и UX до backend, базы данных, AI-архитектуры, автоматизаций, платежей и production.
 
-Я самостоятельно отвечаю за полный цикл развития продукта:
+Brandlyo включает:
 
-- продуктовую стратегию и позиционирование;
-- UX/UI и архитектуру пользовательских сценариев;
-- frontend, backend, базу данных и API;
-- авторизацию, подписки, тарифы и лимиты;
-- интеграции с LLM и генеративными моделями;
-- prompt engineering и context engineering;
-- системы памяти, structured outputs и tool calling;
-- агентные и многошаговые workflows;
-- генерацию и обработку текстов и изображений;
-- evals, quality gates, retries и fallback-сценарии;
-- model routing с учётом качества, latency и стоимости;
-- продуктовую аналитику и feedback loops;
-- production-инфраструктуру и дальнейшее развитие системы.
+* структурированную память бренда;
+* RAG и векторный поиск по контексту;
+* облачные и локально развёрнутые модели;
+* генерацию и обработку текстов и изображений;
+* специализированных AI-агентов;
+* structured outputs и tool calling;
+* контент-календарь и multi-brand пространства;
+* автоматические evals и quality gates;
+* model routing с учётом качества, latency и стоимости;
+* подписки, тарифы, квоты и продуктовую аналитику.
 
-### Не только продукт, но и AI-native операционная среда
+### AI используется не только внутри продукта
 
-Brandlyo служит практическим полигоном для проверки новых моделей и подходов на реальных задачах.
+Brandlyo — это ещё и AI-native операционная среда компании.
 
-AI используется не только внутри интерфейса продукта, но и в операционных процессах компании:
+LLM- и n8n-workflows участвуют в полном цикле:
 
-- исследование рынка и сбор данных;
-- анализ и сегментация целевой аудитории;
-- классификация и приоритизация потенциальных клиентов;
-- поиск и оценка партнёров;
-- подготовка персонализированных офферов;
-- автоматизация контентных и sales-процессов;
-- обработка обратной связи;
-- сбор и анализ продуктовых метрик;
-- проверка гипотез и корректировка стратегии.
+* исследовании рынка и сборе данных;
+* анализе и сегментации целевой аудитории;
+* scoring и приоритизации потенциальных клиентов;
+* поиске и оценке партнёров;
+* подготовке персонализированных офферов;
+* контентных и sales-процессах;
+* обработке обратной связи;
+* сборе метрик и проверке продуктовых гипотез.
 
-Для этого я строю сложные **n8n- и custom-workflows**, объединяющие LLM, API, webhooks, базы данных, условия, scheduled jobs, human-in-the-loop этапы и автоматическую аналитику.
+Я строю пайплайны, объединяющие модели, API, webhooks, базы данных, векторные хранилища, scheduled jobs, retries, fallback-логику и human-in-the-loop этапы.
 
-Такой подход позволяет проверять AI не на изолированных демо, а в полном цикле:
+Это позволяет проверять новые технологии не на изолированных демо, а в полном production-цикле:
 
 **исследование → решение → автоматизация → доставка → данные → следующая итерация.**
 
-🌐 [brandlyo.io](https://brandlyo.io)  
+<details>
+  <summary><b>Подробнее об AI-инженерии</b></summary>
+  <br/>
+
+* Prompt engineering и context engineering
+* RAG, embeddings и векторные базы данных
+* Локальный inference и интеграция локальных моделей
+* Agentic workflows и orchestration
+* Долгосрочная память и управление контекстом
+* Structured generation и tool calling
+* Model routing и fallback-стратегии
+* Evals, quality gates и self-correction
+* Multimodal-пайплайны
+* Подготовка данных и эксперименты с fine-tuning
+* Оптимизация качества, скорости и стоимости
+
+</details>
+
+🌐 [brandlyo.io](https://brandlyo.io/)
 📣 [Telegram-канал Brandlyo](https://t.me/brandlyo)
-
----
-
-## Engineering Leadership
-
-В роли frontend lead я занимаюсь не только разработкой интерфейсов, но и организацией инженерного процесса:
-
-- декомпозирую крупные продуктовые задачи;
-- принимаю архитектурные решения;
-- распределяю зоны ответственности;
-- провожу code review;
-- формирую общие стандарты разработки;
-- помогаю команде работать с legacy-кодом;
-- планирую постепенную модернизацию системы;
-- участвую в оценке рисков и сроков;
-- связываю технические решения с бизнес-задачами;
-- помогаю разработчикам расти и брать больше ответственности.
-
-Работал с постепенным переходом больших систем от jQuery и классического MPA к React, TypeScript и современной компонентной архитектуре без остановки коммерческой разработки.
 
 ---
 
 ## Основная экспертиза
 
-### Product Engineering
-
-- Проектирование продукта от идеи до production
-- Product discovery и проверка гипотез
-- UX сложных B2B- и SaaS-систем
-- Декомпозиция бизнес-процессов
-- Архитектура API и моделей данных
-- Multi-tenant и multi-brand сценарии
-- Авторизация, роли, permissions и лимиты
-- Подписочная модель и продуктовые ограничения
-- Работа с legacy и поэтапная модернизация
-
-### Applied AI
-
-- Интеграция LLM в коммерческие продукты
-- Prompt engineering и context engineering
-- Agentic workflows и tool calling
-- Structured generation
-- Долгосрочная память и управление контекстом
-- Model routing
-- AI evals и quality gates
-- Retry, fallback и self-correction механики
-- Multimodal generation
-- Подготовка данных и эксперименты с fine-tuning
-- Оптимизация качества, latency и стоимости
-
-### Automation & Data
-
-- Сложные n8n workflows
-- API-оркестрация и webhooks
-- Scheduled и event-driven процессы
-- Human-in-the-loop сценарии
-- Сбор, очистка и нормализация данных
-- Сегментация и scoring
-- Продуктовые метрики и аналитика
-- Автоматическая отчётность
-- Data pipelines
-- Feedback loops на основе поведения пользователей
-
-### Frontend & Complex Interfaces
-
-- React, TypeScript и SPA-архитектура
-- Компонентные системы и дизайн-системы
-- Сложные формы, таблицы и редакторы
-- CRM, ERP и внутренние B2B-интерфейсы
-- Календари и диаграммы Ганта
-- Карты, геолокация и GPS-сценарии
-- Графики и аналитические дашборды
-- WebSocket и real-time интерфейсы
-- Адаптивность и accessibility
-- Производительность и постепенный рефакторинг
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Product & Leadership</h3>
+      <ul>
+        <li>Product discovery и проверка гипотез</li>
+        <li>UX сложных B2B- и SaaS-систем</li>
+        <li>Архитектура frontend-приложений</li>
+        <li>Декомпозиция и управление разработкой</li>
+        <li>Code review и инженерные стандарты</li>
+        <li>Развитие команды и ownership</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Applied AI & Data</h3>
+      <ul>
+        <li>LLM и локальные модели</li>
+        <li>RAG и vector databases</li>
+        <li>AI agents и многошаговые workflows</li>
+        <li>n8n и API-оркестрация</li>
+        <li>Сбор, обработка и анализ данных</li>
+        <li>Evals, routing и feedback loops</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -172,13 +182,14 @@ AI используется не только внутри интерфейса 
   <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/n8n-111111?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n" />
   <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Vector_DB-111111?style=flat-square" alt="Vector databases" />
+  <img src="https://img.shields.io/badge/RAG-111111?style=flat-square" alt="RAG" />
   <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub_Actions-111111?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
 </p>
 
-Также работаю с REST API, WebSocket, Tailwind CSS, Zod, React Hook Form, TanStack Query, Leaflet, OpenStreetMap, Chart.js и Gantt-интерфейсами.
+Также работаю с REST API, WebSocket, Zod, React Hook Form, TanStack Query, Tailwind CSS, Leaflet, OpenStreetMap, Chart.js и Gantt-интерфейсами.
 
 ---
 
@@ -186,7 +197,7 @@ AI используется не только внутри интерфейса 
 
 Учился на кафедре автоматизированных систем управления по профилю **«Интеллектуальные системы анализа данных»**.
 
-Этот бэкграунд помогает мне смотреть на продукт шире отдельного интерфейса: понимать данные, автоматизацию процессов, устройство интеллектуальных систем и связь между моделями, продуктовой логикой и бизнес-результатом.
+Этот фундамент помогает мне смотреть на разработку шире отдельного интерфейса: понимать данные, автоматизацию процессов, устройство интеллектуальных систем и связь между техническими решениями, продуктом и бизнес-результатом.
 
 ---
 
@@ -200,15 +211,8 @@ AI используется не только внутри интерфейса 
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=BIGAnvy&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github"
-    alt="GitHub statistics"
-  />
-</p>
-
-<p align="center">
   <sub>
-    Большая часть коммерческого кода находится в приватных репозиториях
+    Значительная часть коммерческого кода находится в приватных репозиториях
     и репозиториях организаций.
   </sub>
 </p>
@@ -219,22 +223,22 @@ AI используется не только внутри интерфейса 
   <summary><b>English summary</b></summary>
   <br/>
 
-I am a product engineer and frontend lead working across engineering leadership, full-stack product development, applied AI, automation, and data.
+I am a frontend lead and product engineer working across engineering leadership, full-stack product development, applied AI, automation, and data.
 
-- I lead frontend engineering for a large commercial B2B platform.
-- I designed and built **Brandlyo**, a self-sustaining AI-native SaaS product, end to end.
-- I use Brandlyo as a production environment for testing new models, agentic patterns, memory systems, evals, and model-routing strategies.
-- I build AI workflows not only for product features, but also for market research, audience segmentation, partner scoring, offer preparation, sales operations, and analytics.
-- I create advanced n8n and custom workflows that connect LLMs, APIs, databases, webhooks, human review, and product feedback loops.
-- My academic background is in automated control systems and intelligent data analysis.
+* I lead frontend engineering for **InstallPlan**, a large commercial B2B ERP platform.
+* I joined the product at an early stage and helped shape its visual language, UX, and frontend architecture.
+* I designed and built **Brandlyo**, a self-sustaining AI-native SaaS product, end to end.
+* I work with cloud and locally deployed models, RAG, vector databases, agentic workflows, evals, and model-routing strategies.
+* I build AI workflows for product features, market research, audience segmentation, partner scoring, offer preparation, sales operations, and analytics.
+* My academic background is in automated control systems and intelligent data analysis.
 
-I am most interested in teams where product thinking, engineering leadership, and applied AI need to work together.
+I am interested in teams where product thinking, engineering leadership, and applied AI need to work together.
 
 </details>
 
 ---
 
 <p align="center">
-  Интересны команды и продукты, где нужно соединить стратегическое мышление,<br/>
-  сильную инженерию и прикладной AI.
+  Интересны команды и продукты, где нужно соединить<br/>
+  стратегическое мышление, инженерное лидерство и прикладной AI.
 </p>
